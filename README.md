@@ -5,7 +5,7 @@ Current beta release is licensed under the GNU General Public License Version 3 
 You are free to use, modify, and distribute this software, provided that all copies and 
 substantial portions of the software are licensed under the same terms.
 
-Current version is build for chromium web browsers.
+Built for chromium web browsers.
 Utylize Google's GEMINI 1.5 Flash for translation purpose and requires API key
 For the time installation is possible only through chromium developer mode
 
