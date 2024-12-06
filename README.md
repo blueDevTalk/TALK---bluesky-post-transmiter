@@ -15,11 +15,14 @@ occur and some of the functions may work poorly or not at all. Plugin is current
 out for free without any guarantee of stability and/or performance. Use at your own risk!
 
 How to run :
-Download T A L K plugin GitHub repository
-Toggle on browser developer mode:
+1)Download T A L K plugin GitHub repository
+2)Unpack
+3)Toggle on browser developer mode:
 Chrome: chrome://extensions/ Brave: brave://extensions/ ....etc
 Toggle is located in top right corner
-From same screen top left corner click "load unpacked" and select downloaded folder
-(Optionally) Pin the plugin to browser dashboard for easy access
+
+4)From same screen top left corner click "load unpacked" and select folder
+"TALKbeta"
+5)(Optionally) Pin the plugin to browser dashboard for easy access
 
 Contact: @bluetalkdev.bsky.social
