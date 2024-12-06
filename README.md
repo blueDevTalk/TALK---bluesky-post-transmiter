@@ -14,15 +14,15 @@ Current build is in early beta stage. Please be informed that minor or even majo
 occur and some of the functions may work poorly or not at all. Plugin is currently given
 out for free without any guarantee of stability and/or performance. Use at your own risk!
 
-How to run :
-1)Download T A L K plugin GitHub repository
-2)Unpack
-3)Toggle on browser developer mode:
-Chrome: chrome://extensions/ Brave: brave://extensions/ ....etc
-Toggle is located in top right corner
+### How to run:
 
-4)From same screen top left corner click "load unpacked" and select folder
-"TALKbeta"
-5)(Optionally) Pin the plugin to browser dashboard for easy access
+1. Download the T A L K plugin GitHub repository.  
+2. Unpack the files.  
+3. Toggle on browser developer mode:  
+   - Chrome: `chrome://extensions/`  
+   - Brave: `brave://extensions/`  
+   *(Toggle is located in the top right corner.)*  
+4. From the same screen, click "Load unpacked" in the top left corner and select the folder **TALKbeta**.  
+5. *(Optionally)* Pin the plugin to the browser dashboard for easy access.  
 
 Contact: @bluetalkdev.bsky.social
